@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Hoteles",
+    "img": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "quant": "807.304 hoteles"
+  },
+  {
+    "id": 2,
+    "name": "Hostels",
+    "img": "https://images.pexels.com/photos/9420758/pexels-photo-9420758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "quant": "807.304 hostels"
+  },
+  {
+    "id": 3,
+    "name": "Departamentos",
+    "img": "https://images.pexels.com/photos/1571452/pexels-photo-1571452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "quant": "807.304 departamentos"
+  },
+  {
+    "id": 4,
+    "name": "Bed and breakfast",
+    "img": "https://images.pexels.com/photos/97083/pexels-photo-97083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "quant": "807.304 Bed and breakfast"
+  }
+]

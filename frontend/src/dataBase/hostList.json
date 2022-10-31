@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "category": "HOTEL",
+    "title": "Hotel 4 estrellas",
+    "location": "Bariloche",
+    "description": "Cat ipsum dolor sit amet, yowling nonstop the whole night. Where is my slave? I'm getting hungry ignore the human until"
+  },
+  {
+    "id": 2,
+    "img": "https://images.pexels.com/photos/261395/pexels-photo-261395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "category": "HOTEL",
+    "title": "Hotel 5 estrellas",
+    "location": "Bariloche",
+    "description": "Cat ipsum dolor sit amet, yowling nonstop the whole night. Where is my slave? I'm getting hungry ignore the human until"
+  },
+  {
+    "id": 3,
+    "img": "https://images.pexels.com/photos/9420758/pexels-photo-9420758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "category": "HOSTEL",
+    "title": "Habitación privada",
+    "location": "Bariloche",
+    "description": "Cat ipsum dolor sit amet, yowling nonstop the whole night. Where is my slave? I'm getting hungry ignore the human until"
+  },
+  {
+    "id": 4,
+    "img": "https://images.pexels.com/photos/5137980/pexels-photo-5137980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "category": "HOSTEL",
+    "title": "Habitación compartida",
+    "location": "Bariloche",
+    "description": "Cat ipsum dolor sit amet, yowling nonstop the whole night. Where is my slave? I'm getting hungry ignore the human until"
+  },
+  {
+    "id": 5,
+    "img": "https://images.pexels.com/photos/1571452/pexels-photo-1571452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "category": "DEPTO",
+    "title": "Departamento",
+    "location": "Bariloche",
+    "description": "Cat ipsum dolor sit amet, yowling nonstop the whole night. Where is my slave? I'm getting hungry ignore the human until"
+  },
+  {
+    "id": 6,
+    "img": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "category": "DEPTO",
+    "title": "Departamento",
+    "location": "Bariloche",
+    "description": "Cat ipsum dolor sit amet, yowling nonstop the whole night. Where is my slave? I'm getting hungry ignore the human until"
+  },
+  {
+    "id": 7,
+    "img": "https://images.pexels.com/photos/90317/pexels-photo-90317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "category": "BED-AND-BREAKFAST",
+    "title": "Bed-and-breakfast 1",
+    "location": "Bariloche",
+    "description": "Cat ipsum dolor sit amet, yowling nonstop the whole night. Where is my slave? I'm getting hungry ignore the human until"
+  },
+  {
+    "id": 8,
+    "img": "https://images.pexels.com/photos/97083/pexels-photo-97083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "category": "BED-AND-BREAKFAST",
+    "title": "Bed-and-breakfast 2",
+    "location": "Bariloche",
+    "description": "Cat ipsum dolor sit amet, yowling nonstop the whole night. Where is my slave? I'm getting hungry ignore the human until"
+  }
+]

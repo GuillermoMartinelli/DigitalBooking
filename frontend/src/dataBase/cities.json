@@ -1,0 +1,48 @@
+[
+    {
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    {
+      "ciudad": "Córdoba",
+      "provincia": "Córdoba",
+      "pais": "Argentina"
+    },
+    {
+      "ciudad": "Mendoza",
+      "provincia": "Mendoza",
+      "pais": "Argentina"
+    },
+    {
+      "ciudad": "Rosario",
+      "provincia": "Santa Fe",
+      "pais": "Argentina"
+    },
+    {
+      "ciudad": "Bahía Blanca",
+      "provincia": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    {
+      "ciudad": "Mar del Plata",
+      "provincia": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    {
+      "ciudad": "Tandil",
+      "provincia": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    {
+      "ciudad": "Pinamar",
+      "provincia": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    {
+      "ciudad": "Merlo",
+      "provincia": "San Luis",
+      "pais": "Argentina"
+    }
+  ]
+  
